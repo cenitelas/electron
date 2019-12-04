@@ -1,0 +1,23 @@
+05.12.2019, 01:38:24 > AppPath: C:\Users\fivern\Desktop\test\client/
+05.12.2019, 01:38:24 > AppPathFolder: C:\Users\fivern\Desktop\test\client/
+05.12.2019, 01:38:24 > 1.0.0
+05.12.2019, 01:38:24 > No updates available
+05.12.2019, 01:38:51 > AppPath: C:\Users\fivern\Desktop\test\client/
+05.12.2019, 01:38:51 > AppPathFolder: C:\Users\fivern\Desktop\test\client/
+05.12.2019, 01:38:51 > 1.0.0
+05.12.2019, 01:38:51 > No updates available
+05.12.2019, 01:39:12 > AppPath: C:\Users\fivern\Desktop\test\client/
+05.12.2019, 01:39:12 > AppPathFolder: C:\Users\fivern\Desktop\test\client/
+05.12.2019, 01:39:12 > 1.0.0
+05.12.2019, 01:39:12 > Update available: 1.0.3
+05.12.2019, 01:39:12 > Downloading http://localhost:4000/update.asar
+05.12.2019, 01:39:12 > Do something after request finishes
+05.12.2019, 01:39:12 > Upload successful!  Server responded with:
+05.12.2019, 01:39:12 > updateFile: C:\Users\fivern\Desktop\test\client/update.asar
+05.12.2019, 01:39:12 > Updater.update.file: C:\Users\fivern\Desktop\test\client/update.asar
+05.12.2019, 01:39:12 > Update downloaded: C:\Users\fivern\Desktop\test\client/update.asar
+05.12.2019, 01:39:12 > Checking for C:\Users\fivern\Desktop\test\client/update.asar
+05.12.2019, 01:39:12 > Going to shell out to move: C:\Users\fivern\Desktop\test\client/update.asar to: C:\Users\fivern\Desktop\test\client
+05.12.2019, 01:39:12 > Going to start the windows updater:C:\Users\fivern\Desktop\test\clientupdater.exe C:\Users\fivern\Desktop\test\client/update.asar C:\Users\fivern\Desktop\test\client/app.asar C:\Users\fivern\Desktop\test\client\node_modules\electron\dist\electron.exe
+05.12.2019, 01:39:12 > Write updater.exe Error: Error: Invalid package C:\Users\fivern\Desktop\test\client\app.asar
+05.12.2019, 01:39:12 > "C:\\Users\\fivern\\Desktop\\test\\clientupdater.exe" "C:\\Users\\fivern\\Desktop\\test\\client/update.asar" "C:\\Users\\fivern\\Desktop\\test\\client/app.asar" "C:\\Users\\fivern\\Desktop\\test\\client\\node_modules\\electron\\dist\\electron.exe"

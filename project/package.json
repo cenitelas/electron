@@ -1,0 +1,11 @@
+{
+  "name": "asar-pack",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server update/ -p 4000"
+  },
+  "author": "",
+  "license": "ISC"
+}
