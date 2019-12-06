@@ -6,8 +6,10 @@ app.on('ready', function () {
   var version = JSON.parse(fs.readFileSync('./resources/app.asar/package.json').toString()).version;
   console.log(version);
   EAU.init({
-    'api':'http://localhost:3000/update',
+    'api':'http://localhost:3000/version.json',
+    'server':false,
     'body': {
+      name : "app",
       current: version
     },
     'formatRes': function(res) { return res }

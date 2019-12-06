@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "asar": "^2.0.1",
     "express": "^4.17.1",
     "sha1-file": "^1.0.4"
   }

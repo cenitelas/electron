@@ -1,0 +1,31 @@
+05.12.2019, 17:58:58 > AppPath: C:\Users\cenit\Desktop\electron\client/
+05.12.2019, 17:58:58 > AppPathFolder: C:\Users\cenit\Desktop\electron\client
+05.12.2019, 17:58:58 > 1.0.0
+05.12.2019, 17:59:01 > Error: connect ECONNREFUSED 127.0.0.1:3000
+05.12.2019, 17:59:01 > Could not connect
+05.12.2019, 17:59:19 > AppPath: C:\Users\cenit\Desktop\electron\client/
+05.12.2019, 17:59:20 > AppPathFolder: C:\Users\cenit\Desktop\electron\client
+05.12.2019, 17:59:20 > 1.0.0
+05.12.2019, 17:59:20 > TypeError: Cannot read property 'version' of undefined
+05.12.2019, 17:59:20 > API response is not valid
+05.12.2019, 18:00:16 > AppPath: C:\Users\cenit\Desktop\electron\client/
+05.12.2019, 18:00:16 > AppPathFolder: C:\Users\cenit\Desktop\electron\client
+05.12.2019, 18:00:16 > 1.0.0
+05.12.2019, 18:00:16 > TypeError: Cannot read property 'version' of undefined
+05.12.2019, 18:00:16 > API response is not valid
+05.12.2019, 18:02:36 > AppPath: C:\Users\cenit\Desktop\electron\client/
+05.12.2019, 18:02:36 > AppPathFolder: C:\Users\cenit\Desktop\electron\client
+05.12.2019, 18:02:36 > 1.0.0
+05.12.2019, 18:02:36 > TypeError: Cannot read property 'version' of undefined
+05.12.2019, 18:02:36 > API response is not valid
+05.12.2019, 18:17:56 > AppPath: C:\Users\cenit\Desktop\electron\client/
+05.12.2019, 18:17:56 > AppPathFolder: C:\Users\cenit\Desktop\electron\client
+05.12.2019, 18:17:56 > 1.0.0
+05.12.2019, 18:17:56 > TypeError: Cannot read property 'version' of undefined
+05.12.2019, 18:17:56 > API response is not valid
+05.12.2019, 18:26:07 > AppPath: C:\Users\cenit\Desktop\electron\client/
+05.12.2019, 18:26:07 > AppPathFolder: C:\Users\cenit\Desktop\electron\client
+05.12.2019, 18:26:07 > 1.0.0
+05.12.2019, 18:26:07 > Update available: 1.0.2
+05.12.2019, 18:26:07 > Downloading http://localhost:4000/update.asar
+05.12.2019, 18:26:09 > Do something with err

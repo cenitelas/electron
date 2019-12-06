@@ -4,8 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "http-server update/ -p 4000"
+    "start": "node main.js",
+    "update": "node importAsar.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "asar": "^2.0.1",
+    "http-server": "^0.12.0"
+  }
 }
